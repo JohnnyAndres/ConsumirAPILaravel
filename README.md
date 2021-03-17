@@ -1,7 +1,7 @@
 # Consumir API con Laravel
 Ejercicio de consumir una API utilizando Laravel
 
-https://github.com/JohnnyAndres/ConsumirAPILaravel.git
+git clone https://github.com/JohnnyAndres/ConsumirAPILaravel.git
 
 composer install
 
