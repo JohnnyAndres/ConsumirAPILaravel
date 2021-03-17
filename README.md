@@ -3,6 +3,8 @@ Ejercicio de consumir una API utilizando Laravel
 
 git clone https://github.com/JohnnyAndres/ConsumirAPILaravel.git
 
+cd ConsumirAPILaravel
+
 composer install
 
 npm install 
