@@ -1,4 +1,4 @@
-# Pruebamomseguros
+# Consumir API con Laravel
 Ejercicio de consumir una API utilizando Laravel
 
 git clone https://github.com/JohnnyAndres/Pruebamomseguros.git
