@@ -4,8 +4,11 @@ Ejercicio de consumir una API utilizando Laravel
 git clone https://github.com/JohnnyAndres/Pruebamomseguros.git
 
 composer install
+
 npm install 
+
 npm run dev
+
 php artisan serve
 
 Con el fin de desarrollar el ejercicio propuesto, consumir la API "https://jsonplaceholder.typicode.com/todos", se ha desarrollado este proyecto de laravel.
